@@ -1,0 +1,37 @@
+.img_robo{
+    background-color: rgba(245, 222, 179, 0.295);
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.img_rob{
+    height: 150px;
+    margin-left: 10px;
+
+}
+.txt_cls{
+    margin-left: 10px;
+    font-weight: bold;
+    margin-top: 10px;
+
+}
+.eml{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    margin-top: 5px;
+}
+.btm_sec{
+    display: flex;
+    gap: 30%;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+    font-size: 20px;
+    border: 1px solid;
+    height: fit-content;
+    margin-left: -10px;
+    height: 70px;
+    background-color: rgba(100, 162, 204, 0.253);
+}
